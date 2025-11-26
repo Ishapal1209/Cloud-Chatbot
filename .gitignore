@@ -1,0 +1,32 @@
+# Demo
+/data/
+media/
+viscap/captioning/detectron/
+viscap/captioning/model_data/
+viscap/checkpoints/
+viscap/data/
+env/
+static/
+chat.ini
+server-log.txt
+uwsgi_params
+visual_dialog_nginx.conf
+
+
+*.pyc
+db.sqlite3
+ques_feat.json
+
+*.t7
+models/*.caffemodel
+models/*.lua
+models/*.prototxt
+*.zip
+
+# Pycharm
+.idea/
+
+# Installed packages
+pytorch/
+migrations/
+!migrations/__init__.py
