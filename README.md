@@ -144,11 +144,7 @@ If you find this code useful, consider citing our work:
 }
 ```
 
-## Contributors
-* [Rishabh Jain][24] (rishabhjain@gatech.edu)
-* [Yash Kant][19] (ysh.kant@gmail.com)
-* [Deshraj Yadav][2] (deshraj@gatech.edu)
-* [Abhishek Das][3] (abhshkdz@gatech.edu)
+developer - Isha Pal
 
 ## License
 
